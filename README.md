@@ -17,7 +17,7 @@ Subdominator is a comprehensive tool designed to streamline the process of subdo
 ## Installation
 
 ```bash
-git clone https://github.com/YourUsername/SubOrbit.git
+git clone https://github.com/Edd13Mora/Subdominator.git
 cd Subdominator
 chmod +x main.sh
 ```
