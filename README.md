@@ -31,6 +31,8 @@ Use standart dsn and resolver file of the project if you don't have custom ones
 ```
 ./main.sh example.com /home/kali/dns.txt /home/kali/resolver.txt
 ```
+ <img src="https://raw.githubusercontent.com/Edd13Mora/Subdominator/main/demo.png">
+
 ## Dependencies
 
 Make sure to install these before running the script.
