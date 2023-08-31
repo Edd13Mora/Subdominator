@@ -26,6 +26,8 @@ chmod +x main.sh
 ./main.sh <domain> [path_to_dns_list] [path_to_resolver_list]
 ```
 ## Example 
+Use standart dsn and resolver file of the project if you don't have custom ones
+{Works better on a VPS}
 ```
 ./main.sh example.com /home/kali/dns.txt /home/kali/resolver.txt
 ```
