@@ -1,7 +1,7 @@
 # Subdominator: Your One-Stop Solution for Subdomain Enumeration
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Edd13Mora/Subdominator/main/feffac0caa646dfe21e21ea172629c3c-removebg-preview.png">
+  <img src="https://raw.githubusercontent.com/Edd13Mora/Subdominator/main/d0ac3d5a64b4fa685ebaf969976eeac0-removebg-preview.png">
 </p>
 
 ## Description
